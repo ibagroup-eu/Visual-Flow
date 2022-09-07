@@ -1,0 +1,15 @@
+[submodule "Visual-Flow-deploy"]
+	path = Visual-Flow-deploy
+	url = git@github.com:ibagroup-eu/Visual-Flow-deploy.git
+[submodule "deploy"]
+	path = deploy
+	url = git@github.com:ibagroup-eu/Visual-Flow-deploy.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ibagroup-eu/Visual-Flow-frontend.git
+[submodule "jobs"]
+	path = jobs
+	url = git@github.com:ibagroup-eu/Visual-Flow-jobs.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ibagroup-eu/Visual-Flow-backend.git

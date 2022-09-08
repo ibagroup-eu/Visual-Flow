@@ -24,6 +24,6 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 ## Do you have questions about the source code?
 
-Ask any question about Visual Flow via email: [VisualFlow@gomel.iba.by](mailto:info@visual-flow.com)
+Ask any question about Visual Flow via email: [info@visual-flow.com](mailto:info@visual-flow.com)
 
 _[Visual Flow team](mailto:info@visual-flow.com)_

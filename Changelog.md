@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-## 0.9.19 (2022-07-14)
-
-=======
-## 0.9.20 (2022-09-19)
-​
->>>>>>> aa2ac19 (Release: v0.9.20)
+(Release: v0.9.20)
 ### Improvements and new features:
 
 - Changed behavior of project level permissions:once user first login into application, he sees all projects as locked.

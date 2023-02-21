@@ -4,15 +4,16 @@ Visual Flow is an ETL tool designed for effective data manipulation via convenie
 
 - Can integrate data from heterogeneous sources:
   - AWS S3
-  - DB2
   - Cassandra
   - Click House
+  - DB2
   - Dataframe (for reading)
   - Elastic Search
   - IBM COS
+  - Kafka
   - Local File
-  - Mango
   - MS SQL
+  - Mongo
   - MySQL/Maria
   - Oracle
   - PostgreSQL

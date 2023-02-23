@@ -31,7 +31,7 @@ Visual Flow application is divided into the following repositories:
 - [Visual-Flow-jobs](https://github.com/ibagroup-eu/Visual-Flow-jobs)
 - [Visual-Flow-deploy](https://github.com/ibagroup-eu/Visual-Flow-deploy)
 - [Visual-Flow-backend-db-service](https://github.com/ibagroup-eu/Visual-Flow-backend-db-service)
-- [Visual-Flow-backend-history-service](https://github.com/ibagroup-eu/Visual-Flow-history-db-service)
+- [Visual-Flow-backend-history-service](https://github.com/ibagroup-eu/Visual-Flow-history-service)
 
 ## Contribution
 

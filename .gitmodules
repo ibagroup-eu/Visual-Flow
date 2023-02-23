@@ -13,3 +13,9 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:ibagroup-eu/Visual-Flow-backend.git
+[submodule "backend-history-service"]
+	path = backend-history-service
+	url = git@github.com:ibagroup-eu/Visual-Flow-backend-history-service.git
+[submodule "backend-db-service"]
+	path = backend-db-service
+	url = git@github.com:ibagroup-eu/Visual-Flow-backend-db-service.git

@@ -1,3 +1,25 @@
+## 1.4.0 (2023-04-07)
+### Improvements and new features:
+- Updated Spark version to 3.3.2.
+- Added API data source.
+- Updated Add/Update Column stage with regex functionality.
+- Updated Add/Update Column stage to adjust precision and scale for decimal type.
+- Updated GroupBy stage to allow several aggregations for one field via one operator.
+- Added option to join dataframes with different key names.
+- Detailed info is returned about the error from DB.
+- Projects list is limited depending on the user access.
+- Cosmetic updates in JD for config panel.
+- Improved Job configuration to read huge configurations from file as an option.
+​
+### Fixed:
+- JD/PD does not allow saving stages with the same name.
+- Scheduling notifications/changes.
+- Job status set to 'Failed' once Notification is failed due to problems with creds for Slack or email.
+- Tags do not dissapear after moving to another tab.
+- Errors are displayed in the appropriate logging level.
+- Typo issues in JD.
+​
+​
 ## 1.3.0 (2023-03-04)
 ### Major Release Notes:
 For existing projects only. Once the deployment process of updates for 1.3.0 is done it's required to run Release_1_3_0_workflow_fix.sh script to avoid configuration errors in existing projects. 

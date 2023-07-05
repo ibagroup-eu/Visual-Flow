@@ -15,7 +15,7 @@
 - JD/PD does not allow saving stages with the same name.
 - Scheduling notifications/changes.
 - Job status set to 'Failed' once Notification is failed due to problems with creds for Slack or email.
-- Tags do not dissapear after moving to another tab.
+- Tags do not disappear after moving to another tab.
 - Errors are displayed in the appropriate logging level.
 - Typo issues in JD.
 ​

@@ -1,4 +1,4 @@
-## 1.4.0 (2023-04-07)
+## 1.4.0 (2023-07-04)
 ### Improvements and new features:
 - Updated Spark version to 3.3.2.
 - Added API data source.
@@ -20,7 +20,7 @@
 - Typo issues in JD.
 ​
 ​
-## 1.3.0 (2023-03-04)
+## 1.3.0 (2023-04-03)
 ### Major Release Notes:
 For existing projects only. Once the deployment process of updates for 1.3.0 is done it's required to run Release_1_3_0_workflow_fix.sh script to avoid configuration errors in existing projects. 
 ​
@@ -169,3 +169,15 @@ For existing projects only. Once the deployment process of updates for 1.3.0 is 
 - Fixed the 'Undo' function.
 - An error message appears if a user has entered an invalid Image pull secret name.
 - Fixed bug that appeared when a user copies some filters in the Job Designer.
+
+## This document contains release versions with the release dates in the following format:
+### Agreement on release numbering
+Release number contains three digits separated by point (major_version.minor_version.bug_fix), where:
+- major release version - new UI, lots of features, conceptual changes etc.
+- minor release version - several changes, a set of bug fixes
+- bug fix release
+
+### Agreement on the release date format
+- The date format is yyyy-mm-dd
+
+So, the general release representation is the following: **Release_number (yyyy-mm-dd)**

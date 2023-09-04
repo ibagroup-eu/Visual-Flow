@@ -1,3 +1,9 @@
+## 1.4.1 (2023-09-04)
+### Fixed:
+- Error with export/import that creates invalid configurations.
+- Error with stage name duplication.
+- Vulnerabilities (CVE-2022-42889, CVE-2023-26136, CVE-2023-28154).
+
 ## 1.4.0 (2023-07-04)
 ### Improvements and new features:
 - Updated Spark version to 3.3.2.

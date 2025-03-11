@@ -1,3 +1,43 @@
+## 1.5.0 (2025-03-11)
+### Improvements and new features:
+- Added GenAI feature (new stage).
+- Added Incremental load feature (Read stage).
+- Added Interactive mode feature (new 'Debugging' status) with the ability to preview metadata and data exemplar.
+- Added SQL editor with syntax markup.
+- Added new connectors (Databricks, Azure Blob Storage, Google Cloud Storage, Kafka).
+- Added new types, formats and parcers (Delta, Binary, PDF, DOC/DOCX etc).
+- Added Sandbox mode.
+- Updated Spark version to 3.4.1.
+- Added hints for stage helper.
+- Changed search crieria for Users/Roles to search by the name instead of id.
+- Improved CDC stage: processing null values.
+- Added ability to copy/paste stages between jobs within the same project (namespace).
+- Changed boolean drop down lists to a new toggle element.
+- Improved security to manage connection passwords.
+- Improved search placeholders.
+- Improved Avro schema.
+- Improved UI: prevention to run empty jobs and pipelines.
+- Improved import/export functionality.
+- Added new sort option 'By last edit' for Jobs and Pipelines.
+- Improved sorting method.
+- Added possibility to sort jobs/pipelines in Pipeline Designer.
+- Cosmetic updates in JD for drop down lists, scroll bars and multiline fields.
+​
+### Fixed:
+- Date/time stage issue.
+- Role-based issues.
+- Jobs/Pipelines dependency issue for 'Copy' action.
+- Notification parameters issue.
+- Fields duplication issue.
+- Drop-down list moves while scrolling the page issue.
+- Logs level list moves while choosing a level.
+- Incorrect rows number in resulting STDOUT for write stage issue.
+- Incorrect data in Dataframe modal window.
+- Typo issues in different modes.
+- Jobs vulnerabilities (CVE-2022-33891, CVE-2021-25642, CVE-2021-33036, CVE-2021-37404, CVE-2020-36632, CVE-2020-10650, CVE-2020-9480, CVE-2008-1997, CVE-2021-32626, CVE-2021-40531, CVE-2018-7489, CVE-2020-35491, CVE-2020-35490, CVE-2020-10673, CVE-2017-7525, CVE-2022-25168, CVE-2023-25194, CVE-2019-14887, CVE-2023-22946, CVE-2020-8840).
+- DBService vulnerabilities (CVE-2024-45772, CVE-2024-1597, CVE-2024-7254, CVE-2024-32888, CVE-2024-22262, CVE-2024-38809, CVE-2024-22243, CVE-2024-38816).
+​
+​
 ## 1.4.1 (2023-09-04)
 ### Fixed:
 - Error with export/import that creates invalid configurations.
